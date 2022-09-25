@@ -9,16 +9,16 @@ function Header() {
         </Link>
 
         <p>
-          Take a whirlwind tour of your next favorite language.
+          Take a whirlwind tour of Electronics Engineering courses.
           Community-driven!
         </p>
 
-        <form action="#">
+        {/* <form action="#">
           <label className="switch">
             <input type="checkbox" />
             <span onClick={() => themeToggler()} className="slider"></span>
           </label>
-        </form>
+        </form> */}
       </div>
     </header>
   );

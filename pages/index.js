@@ -4,6 +4,7 @@ import matter from "gray-matter";
 import Head from "next/head";
 import Post from "../components/Post";
 import { sortByDate } from "../utils";
+import Footer from "../components/Footer";
 
 export default function Home({ posts }) {
   return (
@@ -11,7 +12,6 @@ export default function Home({ posts }) {
       <Head>
         <title>learn with me in minutes</title>
       </Head>
-
       <div className="posts">
         {posts.map((post, index) => (
           <Post key={index} post={post} />
