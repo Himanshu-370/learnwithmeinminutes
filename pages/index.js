@@ -4,7 +4,6 @@ import matter from "gray-matter";
 import Head from "next/head";
 import Post from "../components/Post";
 import { sortByDate } from "../utils";
-import Footer from "../components/Footer";
 
 export default function Home({ posts }) {
   return (
