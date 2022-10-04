@@ -107,5 +107,4 @@ This document was adapted from the open-source contribution guidelines for [Face
 Anyone who wants to collab and or raises issues or solve it will be mentioned here.
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=Himanshu-370/learnwithmeinminutes)
-=======
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Himanshu-370/learnwithmeinminutes)
+
