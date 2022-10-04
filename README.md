@@ -106,8 +106,6 @@ This document was adapted from the open-source contribution guidelines for [Face
 # Contributors
 Anyone who wants to collab and or raises issues or solve it will be mentioned here.
 
-<<<<<<< HEAD
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=Himanshu-370/learnwithmeinminutes)
 =======
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=Himanshu-370/learnwithmeinminutes)
->>>>>>> 86a71ac46358d15225a79661e5a1dc3e74e44a4a
