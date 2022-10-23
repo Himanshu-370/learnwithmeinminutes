@@ -11,6 +11,8 @@ cover_image: "/images/posts/img1.jpg"
   <img src="./../images/PowerElecNotes_page-0001.jpg" width="350" title="hover text">
 </p> -->
 
+![plot](./../images/PowerElecNotes_page-0001.jpg)
+<!-- 
 <p>
     <img src="./../images/PowerElecNotes_page-0001.jpg" />
     <img src="./../images/PowerElecNotes_page-0002.jpg" />
@@ -39,4 +41,4 @@ cover_image: "/images/posts/img1.jpg"
     <img src="./../images/PowerElecNotes_page-0025.jpg" />
     <img src="./../images/PowerElecNotes_page-0026.jpg" />
     <img src="./../images/PowerElecNotes_page-0027.jpg" />
-</p>
+</p> -->
