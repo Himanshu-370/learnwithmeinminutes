@@ -19,6 +19,8 @@
   Beautiful handwritten notes, checked by professors, something you can trust on!
 </p>
 
+Checkout at: <a href="https://learnwithmeinminutes.vercel.app/">Demo</a>
+
 <p><img src="./pic1.png" /></p>
 <p><img src="./pic2.png" /></p>
 
