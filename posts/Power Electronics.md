@@ -1,11 +1,11 @@
 ---
 title: "Power Electronics"
-date: "October 20 2022"
+date: "November 12 2022"
 excerpt: "EED 306"
 cover_image: "/images/posts/img1.jpg"
 ---
 
-# Power Electronics
+## Single Phase ac-dc converters
 
 
 <img src="https://user-images.githubusercontent.com/96609252/201485945-16bce10e-e925-40fa-a5cf-b792bc0706f3.jpg" width="500" height="auto">
